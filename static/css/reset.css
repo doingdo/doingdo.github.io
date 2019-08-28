@@ -1,0 +1,11 @@
+html,body,h1,h2,h3,h4,h5,h6,p,img{
+    padding:0;
+    margin:0;
+    border:0;
+}
+ul,li,ol,dl,dt,dd{
+    list-style: none;
+}
+button,input{
+    outline: none;
+}
