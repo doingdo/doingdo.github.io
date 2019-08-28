@@ -11,3 +11,9 @@
     height:100vh;
     z-index:-999;
 }
+.moon{
+    position: fixed;
+    right:0;
+    top:0;
+    z-index:1;
+}
